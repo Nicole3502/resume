@@ -1,0 +1,40 @@
+.modal-body {
+	padding: 0;
+}
+.modal-body img {
+	width: 100%;
+}
+.row {
+	max-width: 1200px;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+.col {
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 30px;
+	border-radius: 10px;
+	margin: 30px;
+	border: 1px solid lightgray;
+	overflow: hidden;
+}
+.col img,
+.col video {
+	width: 100%;
+}
+.col .btn {
+	margin: auto;
+	display: block;
+}
+.col p {
+	text-align: justify;
+	padding: 15px;
+	padding-top: 5px;
+}
+
+.project-title {
+	padding: 10px;
+	text-align: center;
+	margin-top: 15px;
+}

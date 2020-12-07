@@ -1,0 +1,11 @@
+body {
+	background-image: url("../images/sunset.jpeg");
+	background-size: cover;
+}
+
+h1 {
+	margin-top: 250px;
+	color: white;
+	text-align: center;
+	font-size: 90px;
+}
